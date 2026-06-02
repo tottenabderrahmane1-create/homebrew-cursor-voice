@@ -1,11 +1,11 @@
 # homebrew-cursor-voice
 
-Personal Homebrew tap for [Cursor Voice](https://github.com/tottenabderrahmane1-create/cursor-voice).
+Personal Homebrew tap for [Cursor Voice](https://github.com/cursorvoice/cursor-voice).
 
 ## Install
 
 ```bash
-brew tap tottenabderrahmane1-create/cursor-voice
+brew tap cursorvoice/cursor-voice
 brew install --cask cursor-voice
 ```
 
